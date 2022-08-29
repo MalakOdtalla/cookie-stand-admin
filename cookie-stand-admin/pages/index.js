@@ -31,16 +31,6 @@ function submitHandler(event) {
 
 }
 
-// function handleChange(event) {
-//     let { name, value, type } = event.target;
-
-//     if (type === "number") {
-//         value = parseFloat(value);
-//     }
-
-//     setValues({ ...values, [name]: value });
-// }
-
 
   return (
     <div className={styles.container}>
